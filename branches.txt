@@ -1,0 +1,9 @@
+  origin/01-A-person-tests-draft-1
+  origin/01-B-parametrization-of-unit-tests
+  origin/01-test-double-stub-usage
+  origin/02-test-double-stub-from-mock
+  origin/03-parametrization-for-return-values
+  origin/04-logging-in-pytest
+  origin/05-custom-hook
+  origin/HEAD -> origin/master
+  origin/master
