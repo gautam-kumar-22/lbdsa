@@ -15,10 +15,10 @@ Output
 
 
 def rotateArrayBy90(arr):
-    for i in range(len(arr)):
-        for j in range(len(arr)-1, -1, -1):
-            print(i, j)
-
+    # for i in range(len(arr)-1, -1, -1):
+        for j in range(len(arr)):
+            print(j, i)
+        print("\n")
 
 arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 rotateArrayBy90(arr)

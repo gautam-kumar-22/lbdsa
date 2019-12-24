@@ -39,3 +39,4 @@ Thumbs.db
 # Virtualenv
 .python-session
 .idea
+.git
